@@ -30,6 +30,11 @@ export default function SlideWhat() {
               </li>
               <li>if true will fill space left over from other items</li>
             </ul>
+            <li>Other Breakpoint methods</li>
+            <ul>
+              <li>theme.breakpoint in makeStyles</li>
+              <li>useTheme and useMediaQuery</li>
+            </ul>
           </ul>
         </ul>
       </Notes>

@@ -12,8 +12,8 @@ export default function Slides() {
       <LearningSeriesIntro />
       <TopicIntro />
       <WhatQuote />
-      <WhatOverview />
       <WhatExample />
+      <WhatOverview />
       <WhenToUse />
       <HowToUse />
       <QA />
