@@ -1,8 +1,22 @@
-import Slide01 from "./Slide01";
+import LearningSeriesIntro from "./LearningSeriesIntro";
+import TopicIntro from "./TopicIntro";
+import WhatQuote from "./WhatQuote";
+import WhatOverview from "./WhatOverview";
+import WhatExample from "./WhatExample";
+import WhenToUse from "./WhenToUse";
+import HowToUse from "./HowToUse";
+import QA from "./QA";
 export default function Slides() {
   return (
     <>
-      <Slide01 />
+      <LearningSeriesIntro />
+      <TopicIntro />
+      <WhatQuote />
+      <WhatOverview />
+      <WhatExample />
+      <WhenToUse />
+      <HowToUse />
+      <QA />
     </>
   );
 }
